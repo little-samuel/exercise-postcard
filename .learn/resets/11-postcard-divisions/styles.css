@@ -1,0 +1,31 @@
+* {
+	border: 1px dashed red;
+	min-height: 10px;
+}
+body {
+	background: black;
+}
+.postcard {
+	background: white;
+	width: 400px;
+	height: 300px;
+	margin: auto;
+}
+.postcard-header {
+	background: white;
+	width: 400px;
+	height: 300px;
+	margin: auto;
+}
+.postcard-body {
+	background: white;
+	width: 400px;
+	height: 300px;
+	margin: auto;
+}
+.postard-footer {
+	background: white;
+	width: 400px;
+	height: 300px;
+	margin: auto;
+}
